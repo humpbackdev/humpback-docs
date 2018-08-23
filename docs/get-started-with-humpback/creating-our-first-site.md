@@ -1,5 +1,5 @@
 
-# Generating our first project.
+# Creating our first project.
 
 
 ## Generating a site
