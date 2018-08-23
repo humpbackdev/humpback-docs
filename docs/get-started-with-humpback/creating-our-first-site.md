@@ -44,6 +44,20 @@ First we need to "wake  up" all the our docker containers that will provide us a
 ahoy up
 ```
 
+### Install the Drupal site.
+
+Now we need to install the Drupal 8 in our environment, to install it Humpback provides a custom command, this command could be execute as many times as is required.
+This command will be the responsible of:
+
+- Wipe existing data base tables.
+- Execute the Drupal installation process.
+- Import all the existing configuration.
+
+To do this just execute:
+```bash
+ahoy site install
+```
+
 ### Get your brand new site url
 
 Humpback provides beautiful urls for the sites that are generated with it, to get your site url execute:
