@@ -1,3 +1,6 @@
+
+[![Documentation Status](https://readthedocs.org/projects/humpback/badge/?version=latest)](https://humpback.readthedocs.io/en/latest/?badge=latest)
+
 # Humpback human documentation.
 
 This repository contains all the Humpback documentation in markdown format.
