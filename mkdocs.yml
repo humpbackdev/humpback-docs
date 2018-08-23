@@ -1,3 +1,36 @@
 docs_dir: docs
 site_name: Humpback
 theme: readthedocs
+nav:
+  - Home: index.md
+  - About:
+    - About Humpback: about/about-humpback.md
+    - What's on the box: about/whats-in-the-box.md
+  - Get started with Humpback:
+    - Get Humpback:
+      - Linux: get-started-with-humpback/get-humpback/linux.md
+      - Mac Os: get-started-with-humpback/get-humpback/mac-os.md
+      - Windows: get-started-with-humpback/get-humpback/windows.md
+    - Creating our first site: get-started-with-humpback/creating-our-first-site.md
+  - Humpback commands:
+    - ahoy up: humpback-commands/ahoy-up.md
+    - ahoy stop: humpback-commands/ahoy-stop.md
+    - ahoy site install: humpback-commands/ahoy-site-install.md
+    - ahoy drush: humpback-commands/ahoy-drush.md
+    - ahoy bash: humpback-commands/ahoy-bash.md
+    - ahoy docker mailhog-url: humpback-commands/ahoy-docker-mailhog-url.md
+    - ahoy docker share-url: humpback-commands/ahoy-docker-share-url.md
+    - ahoy docker url: humpback-commands/ahoy-docker-url.md
+    - ahoy docker vnc-url: humpback-commands/ahoy-docker-vnc-url.md
+    - ahoy docker varnish-url: humpback-commands/ahoy-docker-varnish-url.md
+  - Tool set details:
+    - Nginx: tool-set-details/nginx.md
+    - Mailhog: tool-set-details/mailhog.md
+    - MariaDb: tool-set-details/mariadb.md
+    - Ngrok: tool-set-details/ngrok.md
+    - PHP-FPM: tool-set-details/php-fpm.md
+    - Selenium: tool-set-details/selenium.md
+    - Solr: tool-set-details/solr.md
+    - Traefik: tool-set-details/traefik.md
+    - varnish: tool-set-details/varnish.md
+    - Custom CLI: tool-set-details/custom-cli.md
