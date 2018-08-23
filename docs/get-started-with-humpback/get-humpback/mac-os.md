@@ -7,6 +7,7 @@ In order to install the Humpback generator in the right way, we require that the
 - composer
 - node >= 6 (we recommend the usage of nvm)
 - Yeoman
+- brew (To install ahoy)
 - ahoy >= 2
 
 
