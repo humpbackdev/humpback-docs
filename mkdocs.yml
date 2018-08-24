@@ -12,6 +12,8 @@ nav:
       - Mac Os: get-started-with-humpback/get-humpback/mac-os.md
       - Windows: get-started-with-humpback/get-humpback/windows.md
     - Creating our first site: get-started-with-humpback/creating-our-first-site.md
+  - Working with humpback:
+    - Project structure: working-with-humpback/project-structure.md
   - Humpback commands:
     - ahoy up: humpback-commands/ahoy-up.md
     - ahoy stop: humpback-commands/ahoy-stop.md
