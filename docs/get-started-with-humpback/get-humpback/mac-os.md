@@ -10,7 +10,6 @@ Node >=6       |                                                                
 Yeoman         | http://yeoman.io/                                                   | Install it globally.
 Brew           | https://brew.sh/                                                    |
 Ahoy >= 2      |                                                                     | Install it using brew
-Composer       | https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx |
 
 ### Install the humpback generator:
 To install the humpback generator we just need to execute the following command (Assuming that Yeoman was installed in a previews step).

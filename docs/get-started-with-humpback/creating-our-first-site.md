@@ -29,7 +29,7 @@ Now we need to download the contrib modules, patches, Drupal core and other requ
 
 First execute:
 ```bash
-composer install
+ahoy composer install
 ```
 Then execute:
 ```bash

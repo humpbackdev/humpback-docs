@@ -9,7 +9,6 @@ Docker Compose | https://docs.docker.com/compose/install/                       
 Node >=6       |                                                                     | We recommend the usage of nvm.
 Yeoman         | http://yeoman.io/                                                   | Install it globally.
 Ahoy >= 2      | https://github.com/ahoy-cli/ahoy                                    |
-Composer       | https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx |  
 
 ### Install the humpback generator:
 To install the humpback generator we just need to execute the following command (Assuming that Yeoman was installed in a previews step).
