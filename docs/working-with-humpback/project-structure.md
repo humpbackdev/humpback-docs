@@ -1,6 +1,6 @@
 # Project structure
 
-When the Humpback generator generates your project it give as result the following folders and files in the root path of your project
+When the Humpback generator generates your project it give as result the following folders and files in the root path of your project.
 
 ## .ahoy
 it contains the definition of custom ahoy commands for your site.
@@ -13,9 +13,6 @@ Contains custom composer scripts for your project, like the one in charge of the
 
 ## config
 In this folder is stored all the drupal configuration files.
-
-## content
-Needs definition
 
 ## docs
 The objective of this folder is to store all the custom documentation of your project.
@@ -39,12 +36,13 @@ This folder contains the MYSQL configuration file (my.cnf) for the MYSQL contain
 Contains the nginx server configuration for the nginx container.
 
 ## patches
+This folder exclusive to save the local patches for modules, libraries and so on.
 
 ## profiles
 Humpback by default create it's own installation profile, that profile is stored in this folder and it's content is symbolic linked to the folder `web/profiles/custom`
 
 ## root
-Needs definition
+This folder is to add files that you need to be placed in the root path of your project, for example the `.htaccess` file. All the files here will be symbolic linked into the `web` folder.
 
 ## settings
 This folder contains all the settings files required and the services.yml file required by drupal also all this files are symbolic linked into the folder `web/sites/`.
@@ -81,8 +79,10 @@ This file is the one in charge to keep the information about the required module
 ## composer.patches.json
 
 ## docker-compose.yml
+It contains the Docker compose configuration for the current project containers, for more information about how it works take a look of this [link](https://docs.docker.com/compose/compose-file/).
 
 ## env.example
+Example file for the .env file.
 
 ## gulpfile.js
 Gulp configuration file for our project.
@@ -101,3 +101,4 @@ This provides the possibility to set advanced configuration to your pantheon env
 The readme file for your project.
 
 ## traefik.toml
+It contains the configuration to be placed in the traefik container to configure the traefik app, for more information about this file open this [link](https://docs.traefik.io/v1.0/toml/)
