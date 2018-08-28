@@ -15,6 +15,14 @@ Generate your new project files and execute the following Yeoman command and fol
 yo humpback
 ```
 
+### Generate the Drupal settings file.
+
+Our next step is pretty easy, we need to generate the Drupal settings files, for this propose Humpback provides a custom command to generate them and placed them in the right place, the command is:
+
+```bash
+ahoy site local-settings
+```
+
 ### Prepare your local site.
 
 Now we need to download the contrib modules, patches, Drupal core and other required libraries to execute our site and work with it.
@@ -26,14 +34,6 @@ composer install
 Then execute:
 ```bash
 npm install
-```
-
-### Generate the Drupal settings file.
-
-Our next step is pretty easy, we need to generate the Drupal settings files, for this propose Humpback provides a custom command to generate them and placed them in the right place, the command is:
-
-```bash
-ahoy site local-settings
 ```
 
 ### Turn on your new beast
