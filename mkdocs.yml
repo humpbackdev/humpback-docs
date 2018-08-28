@@ -1,6 +1,7 @@
 docs_dir: docs
 site_name: Humpback
 theme: readthedocs
+repo_url: https://github.com/humpbackdev/humpback-docs
 pages:
   - Home: index.md
   - About:
@@ -18,6 +19,7 @@ pages:
   - Humpback commands:
     - ahoy up: humpback-commands/ahoy-up.md
     - ahoy stop: humpback-commands/ahoy-stop.md
+    - ahoy composer: humpback-commands/ahoy-composer.md
     - ahoy site install: humpback-commands/ahoy-site-install.md
     - ahoy drush: humpback-commands/ahoy-drush.md
     - ahoy bash: humpback-commands/ahoy-bash.md

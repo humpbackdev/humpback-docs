@@ -21,6 +21,7 @@ This is the official documentation for the Humpback tool.
   - [ahoy up](humpback-commands/ahoy-up.md)
   - [ahoy stop](humpback-commands/ahoy-stop.md)
   - [ahoy site install](humpback-commands/ahoy-site-install.md)
+  - [ahoy composer](humpback-commands/ahoy-composer.md)
   - [ahoy drush](humpback-commands/ahoy-drush.md)
   - [ahoy bash](humpback-commands/ahoy-bash.md)
   - [ahoy docker mailhog-url](humpback-commands/ahoy-docker-mailhog-url.md)
