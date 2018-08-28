@@ -74,6 +74,7 @@ This file is very important, with this file we have the possibility to change ce
 This file provides all the behat testing framework configuration for our environment.
 
 ## composer.json
+This file is the one in charge to keep the information about the required modules and libraries and the version of those packages, including the drupal core, for more information follow this [link](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup).
 
 ## composer.lock
 
