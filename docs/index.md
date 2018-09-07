@@ -16,7 +16,7 @@ This is the official documentation for the Humpback tool.
   - [Creating our first site](get-started-with-humpback/creating-our-first-site.md)
 - Working with humpback:
   - [Project structure](working-with-humpback/project-structure.md)
-  - [Configure CircleCI](working-with-humpback/configure-circleci.md)
+  - [Configure CircleCI + Pantheon](working-with-humpback/configure-circleci-pantheon.md)
 - Humpback commands:
   - [ahoy up](humpback-commands/ahoy-up.md)
   - [ahoy stop](humpback-commands/ahoy-stop.md)
