@@ -7,7 +7,7 @@ This is the official documentation for the Humpback tool.
 - [Home](index.md)
 - About:
   - [About Humpback](about/about-humpback.md)
-  - [What's on the box](about/whats-in-the-box.md)
+  - [What's in the box](about/whats-in-the-box.md)
 - Get started with Humpback:
   - Get Humpback:
     - [Linux](get-started-with-humpback/get-humpback/linux.md)
@@ -17,6 +17,7 @@ This is the official documentation for the Humpback tool.
 - Working with humpback:
   - [Project structure](working-with-humpback/project-structure.md)
   - [Configure CircleCI + Pantheon](working-with-humpback/configure-circleci-pantheon.md)
+  - [Using different installation profile](working-with-humpback/using-different-installation-profile.md)
 - Humpback commands:
   - [ahoy up](humpback-commands/ahoy-up.md)
   - [ahoy stop](humpback-commands/ahoy-stop.md)
