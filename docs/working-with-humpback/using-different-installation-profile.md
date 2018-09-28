@@ -6,7 +6,8 @@ If you want to override this behavior and use a different install profile (custo
 - Remove all config files under config/sync to ensure profile config is used
 - Change install profile on .ahoy/site.ahoy around line 57 `ahoy drush site-install <profile_name> --account-pass=admin -y`
 - Change install profile on settings/settings.php around line 81 `$settings['install_profile'] = <profile_name>;`
-- Change install profile in circleci deploy job install command around line 108 `terminus drush dccr2019.dev -- si <profile_name> --account-pass=admin -y`
+- Change install profile in circleci build job install command around line 53 `../vendor/bin/drush si <profile_name>` (it's twice in the same line)
+- Change install profile in circleci deploy job install command around line 108 `terminus drush <profile_name>.dev -- si <profile_name> --account-pass=admin -y`
 
 And that's all!
 
