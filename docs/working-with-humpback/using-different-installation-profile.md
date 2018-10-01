@@ -3,12 +3,12 @@
 Humpback by default create it's own installation profile, that profile is stored in profiles folder and its content is symlinked to the folder `web/profiles/custom`. This profile is used by default to install the site.
 If you want to override this behavior and use a different install profile (custom or contrib), you need to place that profile in the right folder (profiles/custom) or by adding it to the project using `composer require` and ensuring it gets placed under web/profiles/contrib and then make some small changes to ensure this profile gets used:
 
-- Remove all config files under config/sync to ensure profile config is used
+- Remove all config files under `config/sync` to ensure profile config is used
 - Change install profile on .ahoy/site.ahoy around **line 57**:
 ```bash
 ahoy drush site-install <profile_name> --account-pass=admin -y
 ```
-- Change install profile on settings/settings.php around **line 81**:
+- Change install profile on `settings/settings.php` around **line 81**:
 ```php
 $settings['install_profile'] = <profile_name>;
 ```
