@@ -18,6 +18,8 @@ This is the official documentation for the Humpback tool.
   - [Project structure](working-with-humpback/project-structure.md)
   - [Configure CircleCI + Pantheon](working-with-humpback/configure-circleci-pantheon.md)
   - [Using different installation profile](working-with-humpback/using-different-installation-profile.md)
+- Developing for humpback:
+    - [Using your local version of the Humpback generator](developing-for-humpback/using-your-local-version-of-the-generator.md)
 - Humpback commands:
   - [ahoy up](humpback-commands/ahoy-up.md)
   - [ahoy stop](humpback-commands/ahoy-stop.md)
