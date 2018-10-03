@@ -40,3 +40,4 @@ pages:
     - Traefik: tool-set-details/traefik.md
     - varnish: tool-set-details/varnish.md
     - Custom CLI: tool-set-details/custom-cli.md
+    - Blackfire: tool-set-details/blackfire.md

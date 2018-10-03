@@ -41,3 +41,4 @@ This is the official documentation for the Humpback tool.
   - [Traefik](tool-set-details/traefik.md)
   - [varnish](tool-set-details/varnish.md)
   - [Custom CLI](tool-set-details/custom-cli.md)
+  - [Blackfire](tool-set-details/blackfire.md)
