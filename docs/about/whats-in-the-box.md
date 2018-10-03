@@ -13,3 +13,4 @@ As we mentioned before the main objective of this project is to improve the star
 - [MailHog](../tool-set-details/mailhog.md)
 - [Traefik](../tool-set-details/traefik.md)
 - [Custom cli](../tool-set-details/custom-cli.md)
+- [Blackfire](../tool-set-details/blackfire.md)
