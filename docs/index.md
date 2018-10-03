@@ -18,6 +18,7 @@ This is the official documentation for the Humpback tool.
   - [Project structure](working-with-humpback/project-structure.md)
   - [Configure CircleCI + Pantheon](working-with-humpback/configure-circleci-pantheon.md)
   - [Using different installation profile](working-with-humpback/using-different-installation-profile.md)
+  - [Profiling your project with Blackfire](working-with-humpback/profiling-your-project-with-blackfire.md)
 - Humpback commands:
   - [ahoy up](humpback-commands/ahoy-up.md)
   - [ahoy stop](humpback-commands/ahoy-stop.md)
