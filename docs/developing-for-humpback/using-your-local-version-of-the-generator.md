@@ -1,11 +1,11 @@
 # Using your local version of the Humpback generator.
 
 - Clone the `generator-humpback` (https://github.com/humpbackdev/generator-humpback) repository in to your local environment.
-- Do all the changes that you need over the Humpback generator.
 - Located over the `generator-humpback` root path execute:
 ```bash
 npm install
 ```
+- Do all the changes that you need over the Humpback generator.
 - Over same path execute the following command to link your local generator version with npm global package registry:
 ```bash
 npm link
@@ -14,7 +14,7 @@ npm link
 ```bash
 yo humpback
 ```
-It should build a new project with new changes that you recently introduce to the generator.  
+It should build a new project with new changes that you recently introduced to the generator.  
 
 If you want to remove the link to your local version of the `generator-humpback`  just execute the following command into the `generator-humpback` root path:
 ```bash
