@@ -46,3 +46,4 @@ This is the official documentation for the Humpback tool.
   - [varnish](tool-set-details/varnish.md)
   - [Custom CLI](tool-set-details/custom-cli.md)
   - [Blackfire](tool-set-details/blackfire.md)
+  - [BackstopJS](tool-set-details/backstop.md)
