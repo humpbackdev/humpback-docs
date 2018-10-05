@@ -23,6 +23,7 @@ pages:
   - Humpback commands:
     - ahoy up: humpback-commands/ahoy-up.md
     - ahoy stop: humpback-commands/ahoy-stop.md
+    - ahoy down: humpback-commands/ahoy-down.md
     - ahoy composer: humpback-commands/ahoy-composer.md
     - ahoy site install: humpback-commands/ahoy-site-install.md
     - ahoy drush: humpback-commands/ahoy-drush.md
