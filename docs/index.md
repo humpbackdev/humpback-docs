@@ -49,3 +49,4 @@ This is the official documentation for the Humpback tool.
   - [Blackfire](tool-set-details/blackfire.md)
   - [Lighthouse](tool-set-details/lighthouse.md)
   - [Xdebug](tool-set-details/xdebug.md)
+  - [BackstopJS](tool-set-details/backstop.md)
