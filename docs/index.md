@@ -25,6 +25,7 @@ This is the official documentation for the Humpback tool.
 - Humpback commands:
   - [ahoy up](humpback-commands/ahoy-up.md)
   - [ahoy stop](humpback-commands/ahoy-stop.md)
+  - [ahoy down](humpback-commands/ahoy-down.md)
   - [ahoy site install](humpback-commands/ahoy-site-install.md)
   - [ahoy composer](humpback-commands/ahoy-composer.md)
   - [ahoy drush](humpback-commands/ahoy-drush.md)
@@ -46,3 +47,5 @@ This is the official documentation for the Humpback tool.
   - [varnish](tool-set-details/varnish.md)
   - [Custom CLI](tool-set-details/custom-cli.md)
   - [Blackfire](tool-set-details/blackfire.md)
+  - [Lighthouse](tool-set-details/lighthouse.md)
+  - [Xdebug](tool-set-details/xdebug.md)
