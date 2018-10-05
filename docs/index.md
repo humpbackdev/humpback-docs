@@ -19,6 +19,7 @@ This is the official documentation for the Humpback tool.
   - [Configure CircleCI + Pantheon](working-with-humpback/configure-circleci-pantheon.md)
   - [Using different installation profile](working-with-humpback/using-different-installation-profile.md)
   - [Profiling your project with Blackfire](working-with-humpback/profiling-your-project-with-blackfire.md)
+  - [Debugging your code with Xdebug](working-with-humpback/debugging-your-code-with-xdebug.md)
 - Developing for humpback:
     - [Using your local version of the Humpback generator](developing-for-humpback/using-your-local-version-of-the-generator.md)
 - Humpback commands:
@@ -34,7 +35,7 @@ This is the official documentation for the Humpback tool.
   - [ahoy docker url](humpback-commands/ahoy-docker-url.md)
   - [ahoy docker vnc-url](humpback-commands/ahoy-docker-vnc-url.md)
   - [ahoy docker varnish-url](humpback-commands/ahoy-docker-varnish-url.md)
-- Tool set details:
+- Toolset details:
   - [Nginx](tool-set-details/nginx.md)
   - [Mailhog](tool-set-details/mailhog.md)
   - [MariaDb](tool-set-details/mariadb.md)
@@ -46,4 +47,6 @@ This is the official documentation for the Humpback tool.
   - [varnish](tool-set-details/varnish.md)
   - [Custom CLI](tool-set-details/custom-cli.md)
   - [Blackfire](tool-set-details/blackfire.md)
+  - [Lighthouse](tool-set-details/lighthouse.md)
+  - [Xdebug](tool-set-details/xdebug.md)
   - [BackstopJS](tool-set-details/backstop.md)
