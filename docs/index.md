@@ -24,6 +24,7 @@ This is the official documentation for the Humpback tool.
 - Humpback commands:
   - [ahoy up](humpback-commands/ahoy-up.md)
   - [ahoy stop](humpback-commands/ahoy-stop.md)
+  - [ahoy down](humpback-commands/ahoy-down.md)
   - [ahoy site install](humpback-commands/ahoy-site-install.md)
   - [ahoy composer](humpback-commands/ahoy-composer.md)
   - [ahoy drush](humpback-commands/ahoy-drush.md)
