@@ -26,9 +26,12 @@ pages:
     - ahoy stop: humpback-commands/ahoy-stop.md
     - ahoy down: humpback-commands/ahoy-down.md
     - ahoy composer: humpback-commands/ahoy-composer.md
+    - ahoy help: humpback-commands/ahoy-help.md
+    - ahoy site: humpback-commands/ahoy-site.md
     - ahoy site install: humpback-commands/ahoy-site-install.md
     - ahoy drush: humpback-commands/ahoy-drush.md
     - ahoy bash: humpback-commands/ahoy-bash.md
+    - ahoy docker: humpback-commands/ahoy-docker.md
     - ahoy docker mailhog-url: humpback-commands/ahoy-docker-mailhog-url.md
     - ahoy docker share-url: humpback-commands/ahoy-docker-share-url.md
     - ahoy docker url: humpback-commands/ahoy-docker-url.md
