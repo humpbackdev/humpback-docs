@@ -58,7 +58,7 @@ To do this just execute:
 ```bash
 ahoy site install
 ```
-This command will use the default included installation profile to install your site; if you need to change the profile, see [Using different installation profile](working-with-humpback/using-different-installation-profile.md)
+This command will use the default included installation profile to install your site; if you need to change the profile, see [Using different installation profile](../working-with-humpback/using-different-installation-profile.md)
 
 ### Get your brand new site url
 
