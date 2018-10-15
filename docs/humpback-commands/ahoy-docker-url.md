@@ -1,3 +1,3 @@
 # ahoy docker url
 
-this command give the your local site url.
+This command gives your local site URL.

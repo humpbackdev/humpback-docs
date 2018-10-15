@@ -1,5 +1,5 @@
-#Cli
+#CLI
 
-This container have some cli utilities to manage your drupal site. See https://hub.docker.com/r/kporras07/docker-drupal-cli/ for more info.
+This container have some CLI utilities to manage your drupal site. See our [Custom CLI](https://hub.docker.com/r/kporras07/docker-drupal-cli/) for more info.
 
-In order to access the cli, you should run `ahoy bash`. Now, you can run commands like drush, ahoy, composer, node, grunt, python, etc inside the container.
+In order to access the CLI, you should run `ahoy bash`. Then, you can run commands like drush, ahoy, composer, node, grunt, python, etc inside the container.

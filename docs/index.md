@@ -1,4 +1,4 @@
-# Welcome to the humpback documentation
+# Welcome to the Humpback Documentation
 
 This is the official documentation for the Humpback tool.
 

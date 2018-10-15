@@ -1,5 +1,5 @@
 # ahoy composer
-This command give to ability to execute any composer command in your environment with out have it installed in your system.
+This command gives the ability to execute any composer command in your environment without having it installed in your system.
 
 ## Usage
 ```bash

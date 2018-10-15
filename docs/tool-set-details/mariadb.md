@@ -1,3 +1,3 @@
 # Mariadb
 
-You can find credentials in environment variables in docker-compose.yml.
+You can find credentials in environment variables in your `docker-compose.yml`.
