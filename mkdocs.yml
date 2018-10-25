@@ -29,6 +29,7 @@ pages:
     - ahoy help: humpback-commands/ahoy-help.md
     - ahoy site: humpback-commands/ahoy-site.md
     - ahoy site install: humpback-commands/ahoy-site-install.md
+    - ahoy site install-from-db: humpback-commands/ahoy-site-install-from-db.md
     - ahoy drush: humpback-commands/ahoy-drush.md
     - ahoy bash: humpback-commands/ahoy-bash.md
     - ahoy docker: humpback-commands/ahoy-docker.md

@@ -28,6 +28,7 @@ This is the official documentation for the Humpback tool.
   - [ahoy down](humpback-commands/ahoy-down.md)
   - [ahoy site](humpback-commands/ahoy-site.md)
   - [ahoy site install](humpback-commands/ahoy-site-install.md)
+  - [ahoy site install-from-db](humpback-commands/ahoy-site-install-from-db.md)
   - [ahoy composer](humpback-commands/ahoy-composer.md)
   - [ahoy help](humpback-commands/ahoy-help.md)
   - [ahoy drush](humpback-commands/ahoy-drush.md)
