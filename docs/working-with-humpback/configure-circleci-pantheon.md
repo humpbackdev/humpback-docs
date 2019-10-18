@@ -57,6 +57,11 @@ $ ssh-keygen -t rsa -b 4096
       - ""
 ```
 
+You could also instruct CircleCI to load all of your added ssh keys by setting it this way:
+```yml
+- add_ssh_keys:
+```
+
 - **Save your new public SSH key on Pantheon:** log in into your Pantheon account, go to your account settings and find the **SSH keys** section, there you should add the new public key that you recently generated.
 
 - **Generate a new pantheon machine token:**  while logged in into your Pantheon account, go to your account settings and find the **Machine tokens** section, generate a new one and save it, it will be used in the next step.
