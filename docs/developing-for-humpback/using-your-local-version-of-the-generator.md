@@ -21,6 +21,6 @@ If you want to remove the link to your local version of the `generator-humpback`
 npm unlink
 ```
 
-## Very important note:
+## Important!!!
 
-If you think that your changes to the Humpback generator could help other people or they improve some existing process: feel free to send us a pull request with your changes.
+If you think that your changes to the Humpback generator would help other people or improve any existing process: PLEASE send a pull request with your changes.
